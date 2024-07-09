@@ -1,5 +1,5 @@
 # ArduinoSongs
-This is a repository that I keep for generating songs with an arduino nano every board. 
+This is a repository that I keep for generating songs with an arduino nano every board or other boards. 
 
 The whole idea is a replication of MaxImagination: https://www.youtube.com/@MaxImagination
 
