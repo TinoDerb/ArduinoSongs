@@ -5,4 +5,4 @@ The whole idea is a replication of MaxImagination: https://www.youtube.com/@MaxI
 
 The songs found here can be copy pasted and used in a variety of ways.
 
-I will post every song to be played from pin number 12, happy gift making.
+Good place to transcribe music by ear: https://www.szynalski.com/tone-generator/
